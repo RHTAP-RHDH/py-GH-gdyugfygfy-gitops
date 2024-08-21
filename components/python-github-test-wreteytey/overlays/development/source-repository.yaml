@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: python-github-test-wreteytey-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/py-GH-gdyugfygfy
